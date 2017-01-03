@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1ac54cd-c7f5-4c43-9f59-4ab2279de15d" name="Default" comment="" />
+    <ignored path="clustering.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="clustering" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uri.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uri.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="634">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/sekolah/editdata/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <marker date="1432649324000" expanded="true" signature="310:341" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1432649324000" expanded="true" signature="698:820" placeholder="UPDATE sekol... " />
+                <marker date="1432649324000" expanded="true" signature="1015:1086" placeholder="..." />
+                <marker date="1432649324000" expanded="true" signature="2196:2227" placeholder="SELECT * FRO... sekolah" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/sekolah/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/parameter/clustering/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2448">
+              <caret line="144" column="26" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="26" />
+              <folding>
+                <marker date="1461911541949" expanded="true" signature="373:394" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="1391:1422" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="1493:1550" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="1664:1695" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="1752:1809" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="2649:2670" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="3572:3635" placeholder="UPDATE sekol... " />
+                <marker date="1461911541949" expanded="true" signature="3906:3969" placeholder="UPDATE sekol... " />
+                <marker date="1461911541949" expanded="true" signature="4265:4286" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="5351:5372" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1461911541949" expanded="true" signature="5450:6216" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/parameter/editdata/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="64" selection-start-line="146" selection-start-column="64" selection-end-line="146" selection-end-column="64" />
+              <folding>
+                <marker date="1432649502000" expanded="true" signature="326:357" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1432649502000" expanded="true" signature="1282:1643" placeholder="UPDATE sekol... " />
+                <marker date="1432649502000" expanded="true" signature="1849:1920" placeholder="..." />
+                <marker date="1432649502000" expanded="true" signature="11644:11675" placeholder="SELECT * FRO... sekolah" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/index/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <marker date="1466482168662" expanded="true" signature="265:286" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1466482168662" expanded="true" signature="327:341" placeholder="..." />
+                <marker date="1466482168662" expanded="true" signature="547:591" placeholder="SELECT SUM(J... sekolah" />
+                <marker date="1466482168662" expanded="true" signature="790:804" placeholder="..." />
+                <marker date="1466482168662" expanded="true" signature="1034:1069" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1466482168662" expanded="true" signature="1110:1124" placeholder="..." />
+                <marker date="1466482168662" expanded="true" signature="1361:1396" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1466482168662" expanded="true" signature="1437:1451" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/parameter/index/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="23" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="23" />
+              <folding>
+                <marker date="1432649464000" expanded="true" signature="139:160" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1432649464000" expanded="true" signature="993:1014" placeholder="SELECT * FRO... sekolah" />
+                <marker date="1432649464000" expanded="true" signature="1090:1797" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/halaman/parameter/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db.sql" />
+        <option value="G:/DONY/Dump20160414.sql" />
+        <option value="G:/DONY/y.html" />
+        <option value="$PROJECT_DIR$/uri.php" />
+        <option value="$PROJECT_DIR$/halaman/parameter/clustering/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="170" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sekolah" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sekolah" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editdata" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editdata" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clustering" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halaman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../admin" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1ac54cd-c7f5-4c43-9f59-4ab2279de15d" name="Default" comment="" />
+      <created>1460512599314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1460512599314</updated>
+      <workItem from="1460512600669" duration="8857000" />
+      <workItem from="1460596795076" duration="6600000" />
+      <workItem from="1460959250904" duration="2581000" />
+      <workItem from="1461118097728" duration="595000" />
+      <workItem from="1461200565922" duration="13000" />
+      <workItem from="1461745322524" duration="1343000" />
+      <workItem from="1461804593984" duration="3543000" />
+      <workItem from="1461809223395" duration="1545000" />
+      <workItem from="1461891864027" duration="639000" />
+      <workItem from="1461894539984" duration="6063000" />
+      <workItem from="1461911094661" duration="2218000" />
+      <workItem from="1466483171652" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34590000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="170" width="1456" height="916" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/editdata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1432649324000" expanded="true" signature="310:341" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649324000" expanded="true" signature="698:820" placeholder="UPDATE sekol... " />
+            <marker date="1432649324000" expanded="true" signature="1015:1086" placeholder="..." />
+            <marker date="1432649324000" expanded="true" signature="2196:2227" placeholder="SELECT * FRO... sekolah" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/clustering/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461911541949" expanded="true" signature="373:394" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1391:1422" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1493:1550" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1664:1695" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1752:1809" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="2649:2670" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="3572:3635" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="3906:3969" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="4265:4286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5351:5372" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5450:6216" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/._index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1466482168662" expanded="true" signature="265:286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="327:341" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="547:591" placeholder="SELECT SUM(J... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="790:804" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1034:1069" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1110:1124" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1361:1396" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1437:1451" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <marker date="1432649464000" expanded="true" signature="139:160" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="993:1014" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="1090:1797" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/editdata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1432649324000" expanded="true" signature="310:341" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649324000" expanded="true" signature="698:820" placeholder="UPDATE sekol... " />
+            <marker date="1432649324000" expanded="true" signature="1015:1086" placeholder="..." />
+            <marker date="1432649324000" expanded="true" signature="2196:2227" placeholder="SELECT * FRO... sekolah" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/clustering/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461911541949" expanded="true" signature="373:394" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1391:1422" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1493:1550" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1664:1695" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1752:1809" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="2649:2670" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="3572:3635" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="3906:3969" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="4265:4286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5351:5372" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5450:6216" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/._index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1466482168662" expanded="true" signature="265:286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="327:341" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="547:591" placeholder="SELECT SUM(J... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="790:804" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1034:1069" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1110:1124" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1361:1396" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1437:1451" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <marker date="1432649464000" expanded="true" signature="139:160" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="993:1014" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="1090:1797" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/editdata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1432649324000" expanded="true" signature="310:341" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649324000" expanded="true" signature="698:820" placeholder="UPDATE sekol... " />
+            <marker date="1432649324000" expanded="true" signature="1015:1086" placeholder="..." />
+            <marker date="1432649324000" expanded="true" signature="2196:2227" placeholder="SELECT * FRO... sekolah" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/clustering/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="107" selection-start-line="91" selection-start-column="105" selection-end-line="91" selection-end-column="107" />
+          <folding>
+            <marker date="1461911541949" expanded="true" signature="373:394" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1391:1422" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1493:1550" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1664:1695" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1752:1809" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="2649:2670" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="3572:3635" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="3906:3969" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="4265:4286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5351:5372" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5450:6216" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/._index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1466482168662" expanded="true" signature="265:286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="327:341" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="547:591" placeholder="SELECT SUM(J... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="790:804" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1034:1069" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1110:1124" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1361:1396" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1437:1451" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <marker date="1432649464000" expanded="true" signature="139:160" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="993:1014" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="1090:1797" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/editdata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/clustering/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461911541949" expanded="true" signature="373:394" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1391:1422" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1493:1550" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1664:1695" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1752:1809" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="2649:2670" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="3572:3635" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="3906:3969" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="4265:4286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5351:5372" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5450:6216" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/._index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1466482168662" expanded="true" signature="265:286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="327:341" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="547:591" placeholder="SELECT SUM(J... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="790:804" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1034:1069" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1110:1124" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1361:1396" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1437:1451" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <marker date="1432649464000" expanded="true" signature="139:160" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="993:1014" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="1090:1797" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="182" column="24" selection-start-line="182" selection-start-column="24" selection-end-line="182" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/._index.php" />
+    <entry file="file://$PROJECT_DIR$/halaman/index/._index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1466482168662" expanded="true" signature="265:286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="327:341" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="547:591" placeholder="SELECT SUM(J... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="790:804" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1034:1069" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1110:1124" placeholder="..." />
+            <marker date="1466482168662" expanded="true" signature="1361:1396" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1466482168662" expanded="true" signature="1437:1451" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/DONY/y.html" />
+    <entry file="file://G:/DONY/Dump20160414.sql" />
+    <entry file="file://$PROJECT_DIR$/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/editdata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1432649324000" expanded="true" signature="310:341" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649324000" expanded="true" signature="698:820" placeholder="UPDATE sekol... " />
+            <marker date="1432649324000" expanded="true" signature="1015:1086" placeholder="..." />
+            <marker date="1432649324000" expanded="true" signature="2196:2227" placeholder="SELECT * FRO... sekolah" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/sekolah/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <marker date="1432649464000" expanded="true" signature="139:160" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="993:1014" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649464000" expanded="true" signature="1090:1797" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/editdata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="64" selection-start-line="146" selection-start-column="64" selection-end-line="146" selection-end-column="64" />
+          <folding>
+            <marker date="1432649502000" expanded="true" signature="326:357" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1432649502000" expanded="true" signature="1282:1643" placeholder="UPDATE sekol... " />
+            <marker date="1432649502000" expanded="true" signature="1849:1920" placeholder="..." />
+            <marker date="1432649502000" expanded="true" signature="11644:11675" placeholder="SELECT * FRO... sekolah" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/halaman/parameter/clustering/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="144" column="26" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="26" />
+          <folding>
+            <marker date="1461911541949" expanded="true" signature="373:394" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1391:1422" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1493:1550" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1664:1695" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="1752:1809" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="2649:2670" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="3572:3635" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="3906:3969" placeholder="UPDATE sekol... " />
+            <marker date="1461911541949" expanded="true" signature="4265:4286" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5351:5372" placeholder="SELECT * FRO... sekolah" />
+            <marker date="1461911541949" expanded="true" signature="5450:6216" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
